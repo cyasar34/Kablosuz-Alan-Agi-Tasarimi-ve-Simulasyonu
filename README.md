@@ -33,12 +33,12 @@ Kongre Tarihleri: 18-19 Mart 2023 İSTANBUL
 [Araştırma Sosyal Medya Linki](https://www.instagram.com/p/Cp74Le0NPox/)
 
 Öz:
-Günümüzde yaşanan teknolojik gelişmeler ve dijital dönüşüm çalışmaları ağ sistemlerini de doğrudan etkilemiştir. Kablolu ağ sistemlerinden kablosuz ağ sistemlerine doğru gerçekleşen dönüşüm 
+Günümüzde yaşanan teknolojik gelişmeler ve dijital dönüşüm çalışmaları ağ sistemlerini de doğrudan etkilemiştir. Kablolu ağ sistemlerinden kablosuz ağ sistemlerine doğru gerçekleşen dönüşüm 
 de hızlı bir ivme kazanmıştır. Kablolu ağlarda cihazlar arasındaki iletişimi sağlamak için kullanılan 
-çift bükümlü bakır kablo, koaksiyel kablo veya fiber optik kablo kullanılmaktadır. Kablosuz ağ sistemlerinde ise birçok cihazın haberleşmesi için fiziksel bağlantı yerine radyo frekansı (RF) yöntemi 
-kullanılmaktadır. Aynı zamanda kablosuz ağların kurulum kolaylığı, esnek ve hareketli bir yapıya sahip olması, düşük bütçeli maliyet sağlaması ve var olan yapıyı genişletmesinin de kolay olması gibi 
+çift bükümlü bakır kablo, koaksiyel kablo veya fiber optik kablo kullanılmaktadır. Kablosuz ağ sistemlerinde ise birçok cihazın haberleşmesi için fiziksel bağlantı yerine radyo frekansı (RF) yöntemi 
+kullanılmaktadır. Aynı zamanda kablosuz ağların kurulum kolaylığı, esnek ve hareketli bir yapıya sahip olması, düşük bütçeli maliyet sağlaması ve var olan yapıyı genişletmesinin de kolay olması gibi 
 avantajları tercih edilme sebepleri arasındadır. Kablosuz ağları kullanım alanları ve kategorilerine göre 
-farklı sınıflara ayırmak mümkündür. Kablosuz ağ kategorileri kendilerine özgü kontrolleri, cihaz özellikleri ve iletişim gereksinimleri barındırdıkları için bu alanda uygulama geliştirme aşamasına geçmeden önce test ve analiz yapılmalıdır. Cisco firması tarafından geliştirilen real time veya simülasyon 
+farklı sınıflara ayırmak mümkündür. Kablosuz ağ kategorileri kendilerine özgü kontrolleri, cihaz özellikleri ve iletişim gereksinimleri barındırdıkları için bu alanda uygulama geliştirme aşamasına geçmeden önce test ve analiz yapılmalıdır. Cisco firması tarafından geliştirilen real time veya simülasyon 
 modunda kullanılabilen, farklı protokollerin gösterimini destekleyen, ağ topolojileri oluşturma, cihaz 
 özelliklerini değiştirme ve yapılandırmaya olanak sağlayan Cisco Packet Tracer ağ simülasyon yazılımı 
 da sık tercih edilen uygulamalar arasındadır. Ağ simülasyon yazılımları kullanım amacına göre çeşitli 
