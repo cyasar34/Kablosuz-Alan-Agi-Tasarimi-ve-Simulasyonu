@@ -53,7 +53,7 @@ Anahtar Kelimeler: Ağ Simülasyonu, Cisco Packet Tracer, Kablosuz Ağ
 - **APA**: Yaşar, Ç., & Akbal, R. (2023).  Kablosuz Alan Ağı Tasarımı ve Simülasyonu. 1.Uluslararası Mühendislik Ve Fen Bilimleri Kongresi (pp.128-135). İstanbul, Turkey                            
 - **MLA**: Yaşar, ÇİSEM, ve Akbal, R.  "Kablosuz Alan Ağı Tasarımı ve Simülasyonu"  1.Uluslararası Mühendislik Ve Fen Bilimleri Kongresi, İstanbul, Turkey, pp.128-135, 2023              
 
-![Bildiri Metni](https://github.com/cyasar34/SOKAK-CANLILARINA-YARDIM-ICIN-WEB-TABANLI-TAKIP-SISTEMI/blob/main/sokak_canlilarina_yardim_web_sitesi.PNG)
+![Bildiri Metni](https://github.com/cyasar34/Kablosuz-Alan-Agi-Tasarimi-ve-Simulasyonu/blob/main/kablosuz_alan_agi_tasarimi_simulasyonu.PNG)
 
 License:
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
