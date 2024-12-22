@@ -49,6 +49,7 @@ tasarlanmış ve Cisco Packet Tracer simülasyon yazılımında benzetim yapılm
 
 Anahtar Kelimeler: Ağ Simülasyonu, Cisco Packet Tracer, Kablosuz Ağ
 
+
 - **IEEE**: Ç. Yaşar & R. Akbal "Kablosuz Alan Ağı Tasarımı ve Simülasyonu"  1.Uluslararası Mühendislik Ve Fen Bilimleri Kongresi, vol.1, İstanbul, Turkey, pp.128-135, 2023                               
 - **APA**: Yaşar, Ç., & Akbal, R. (2023).  Kablosuz Alan Ağı Tasarımı ve Simülasyonu. 1.Uluslararası Mühendislik Ve Fen Bilimleri Kongresi (pp.128-135). İstanbul, Turkey                            
 - **MLA**: Yaşar, ÇİSEM, ve Akbal, R.  "Kablosuz Alan Ağı Tasarımı ve Simülasyonu"  1.Uluslararası Mühendislik Ve Fen Bilimleri Kongresi, İstanbul, Turkey, pp.128-135, 2023              
