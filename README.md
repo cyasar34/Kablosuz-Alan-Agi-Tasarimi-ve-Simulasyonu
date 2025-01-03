@@ -1,4 +1,4 @@
-# Kablosuz-Alan-Agi-Tasarimi-ve-Simulasyonu
+# Wireless-Area-Network-Design-and-Simulation
 
 Kablosuz Alan Ağı Tasarımı ve Simülasyonu / Wireless Area Network Design and Simulation
 
