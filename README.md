@@ -32,7 +32,7 @@ Kongre Tarihleri: 18-19 Mart 2023 İSTANBUL
 
 [Araştırma Sosyal Medya Linki](https://www.instagram.com/p/Cp74Le0NPox/)
 
-Öz:
+Özet:
 Günümüzde yaşanan teknolojik gelişmeler ve dijital dönüşüm çalışmaları ağ sistemlerini de doğrudan etkilemiştir. Kablolu ağ sistemlerinden kablosuz ağ sistemlerine doğru gerçekleşen dönüşüm 
 de hızlı bir ivme kazanmıştır. Kablolu ağlarda cihazlar arasındaki iletişimi sağlamak için kullanılan 
 çift bükümlü bakır kablo, koaksiyel kablo veya fiber optik kablo kullanılmaktadır. Kablosuz ağ sistemlerinde ise birçok cihazın haberleşmesi için fiziksel bağlantı yerine radyo frekansı (RF) yöntemi 
@@ -48,6 +48,11 @@ gerekli bileşenler ve ağın güvenliğine yönelik bilgiler verilmiştir. Ayn�
 tasarlanmış ve Cisco Packet Tracer simülasyon yazılımında benzetim yapılmıştır. 
 
 Anahtar Kelimeler: Ağ Simülasyonu, Cisco Packet Tracer, Kablosuz Ağ
+
+Abstract:
+Today's technological developments and digital transformation efforts have directly affected network systems. The transformation from wired network systems to wireless network systems has also gained rapid momentum. In wired networks, twisted-pair copper cable, coaxial cable or fiber optic cable are used to provide communication between devices. In wireless network systems, radio frequency (RF) method is used instead of physical connection for communication of many devices. At the same time, the advantages of wireless networks such as ease of installation, flexible and mobile structure, low budget cost and easy to expand the existing structure are among the reasons why they are preferred. It is possible to classify wireless networks into different classes according to their usage areas and categories. Since wireless network categories have their own unique controls, device features and communication requirements, testing and analysis should be performed before proceeding to the application development phase in this area. Real time or simulation developed by Cisco mode, supporting the representation of different protocols, creating network topologies, device Cisco Packet Tracer network simulation software that allows modifying and configuring are also among the frequently preferred applications. Network simulation software can be used for various purposes. advantages. In this study, the reasons for the preference of wireless network systems, wireless network categories, areas of use, devices used, bandwidth, network standards, networking necessary components and information on the security of the network. At the same time, a wireless area network designed and simulated in Cisco Packet Tracer simulation software. 
+
+Keywords: Network Simulation, Cisco Packet Tracer, Wireless Network
 
 
 - **IEEE**: Ç. Yaşar & R. Akbal "Kablosuz Alan Ağı Tasarımı ve Simülasyonu"  1.Uluslararası Mühendislik Ve Fen Bilimleri Kongresi, vol.1, İstanbul, Turkey, pp.128-135, 2023                               
